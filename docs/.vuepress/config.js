@@ -4,7 +4,7 @@ module.exports = {
   // open: true,
   title: '晨光微路个人网站',
   description: '我喜欢这晨光微露的旷野 有期待 没有幻想',
-  base: './',
+  base: '/',
   serviceWorker: true,
   head: [
     ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: `/favicon.ico` }],
